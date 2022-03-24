@@ -1,7 +1,7 @@
 package lexer
 
 import (
-	"github.com/XiovV/interpreter/token"
+	"github.com/XiovV/compiler/token"
 	"testing"
 )
 

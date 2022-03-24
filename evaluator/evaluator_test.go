@@ -1,9 +1,9 @@
 package evaluator
 
 import (
-	"github.com/XiovV/interpreter/lexer"
-	"github.com/XiovV/interpreter/object"
-	"github.com/XiovV/interpreter/parser"
+	"github.com/XiovV/compiler/lexer"
+	"github.com/XiovV/compiler/object"
+	"github.com/XiovV/compiler/parser"
 	"testing"
 )
 

@@ -2,8 +2,8 @@ package parser
 
 import (
 	"fmt"
-	"github.com/XiovV/interpreter/ast"
-	"github.com/XiovV/interpreter/lexer"
+	"github.com/XiovV/compiler/ast"
+	"github.com/XiovV/compiler/lexer"
 	"testing"
 )
 
